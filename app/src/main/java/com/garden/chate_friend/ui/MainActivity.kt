@@ -1,7 +1,8 @@
-package com.garden.chate_friend
+package com.garden.chate_friend.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.garden.chate_friend.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
